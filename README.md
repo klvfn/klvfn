@@ -1,16 +1,16 @@
-### Hi there 👋
+![Linkedin Badge](https://img.shields.io/badge/Kelvin_Fernandez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkelvinfernandez)
+![Twitter URL](https://img.shields.io/badge/Kelvin_Fernandez-3a3a3b?style=for-the-badge&logo=twitter&logoColor=1DA1F2&url=url=https%3A%2F%2Ftwitter.com%2Fklvfn)
 
-<!--
-**klvfn/klvfn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi, folks 👋
 
-Here are some ideas to get you started:
+I'm **Kelvin Fernandez** a Software Engineer from 🇮🇩 who likes to learn random things.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Currently learning anything interesting 🌟
+- I speak **JavaScript / TypeScript & Go**
+- Besides coding i like to play games 🎮 & basketball 🏀
+- 😆 Fun fact: I like sleeping 😪
+
+
+
+
+
