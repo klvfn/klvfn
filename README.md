@@ -7,8 +7,6 @@ I'm **Kelvin Fernandez** a Software Engineer from 🇮🇩 who likes to learn ra
 
 - Currently learning anything interesting 🌟
 - I speak **JavaScript / TypeScript & Go**
-- Besides coding i like to play games 🎮 & basketball 🏀
-- 😆 Fun fact: I like sleeping 😪
 - 📫 Contact me on fernandezkelvin98@gmail.com or DM my social
 
 
